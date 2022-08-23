@@ -1,0 +1,8 @@
+{
+  "name": "inventory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7a980d2f"
+}

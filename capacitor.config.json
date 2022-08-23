@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "inventory",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
